@@ -5,7 +5,7 @@ Atul Venkatesh | Dartmouth College Class of 2027 | [LinkedIn](https://www.linked
 
 Gavin Bulthuis | University of Minnesota Class of 2025 | [LinkedIn](https://www.linkedin.com/in/gavin-bulthuis/)
 
-Levon Sarian | Dartmouth College Class of 2027 | [LinkedIn](https://www.linkedin.com/in/atul-venkatesh-8a4b87204/)
+Levon Sarian | Dartmouth College Class of 2027 | [LinkedIn](https://www.linkedin.com/in/levon-sarian/)
 
 # Directory
 ## Code
