@@ -2,6 +2,7 @@
 A submission to the 2026 Big Data Bowl - Student track - Analytics
 
 Atul Venkatesh | Dartmouth College Class of 2027 | [LinkedIn](https://www.linkedin.com/in/atul-venkatesh-8a4b87204/)
+Gavin Bulthuis | University of Minnesota Class of 2025 | [LinkedIn](https://www.linkedin.com/in/gavin-bulthuis/)
 
 # Directory
 ## Code
