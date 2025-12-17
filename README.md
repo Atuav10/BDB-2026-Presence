@@ -26,6 +26,9 @@ Defenderless Receiver Value Score (DRVS) - RVS when the defender is removed
 Value Change - RVS - DRVS
 
 Presence Score - Value Change at catch point - Value Change at time of throw
+
+Synergy Score - Calcualted by the Actual Pair Presence - (Single Effect of D1 + Single Effect of D2)
+
 # Bibliography
 da Silva, G. P., & de Andrade Moral, R. (2021). Frame by frame completion probability of an NFL pass (arXiv:2109.08051). arXiv. https://doi.org/10.48550/arXiv.2109.08051
 
