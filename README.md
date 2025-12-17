@@ -7,6 +7,8 @@ Gavin Bulthuis | University of Minnesota Class of 2025 | [LinkedIn](https://www.
 
 Levon Sarian | Dartmouth College Class of 2027 | [LinkedIn](https://www.linkedin.com/in/levon-sarian/)
 
+Alexander Nanda | Dartmouth College Class of 2027 | [LinkedIn](https://www.linkedin.com/in/alexander-nanda/)
+
 # Directory
 ## Code
 ## Appendices
