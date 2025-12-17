@@ -8,6 +8,13 @@ Atul Venkatesh | Dartmouth College Class of 2027 | [LinkedIn](https://www.linked
 ## Appendices
 ## Figures
 
+# Glossary
+Completion Percentage (CP) - XGBoost model trained to predict the probability of a completed pass
+Expected Yards After Catch (xYAC) - XGBoost model trained to estimate the yards after catch
+Receiver Value Score (RVS) - CP*(Air Yards + xYAC)
+Defenderless Receiver Value Score (DRVS) - RVS when the defender is removed
+Value Change - RVS - DRVS
+Presence Score - Value Change at catch point - Value Change at time of throw
 # Bibliography
 da Silva, G. P., & de Andrade Moral, R. (2021). Frame by frame completion probability of an NFL pass (arXiv:2109.08051). arXiv. https://doi.org/10.48550/arXiv.2109.08051
 
