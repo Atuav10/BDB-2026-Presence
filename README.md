@@ -1,5 +1,5 @@
 # Presence
-A submission to the 2026 Big Data Bowl - Student track - Analytics
+A submission to the 2026 Big Data Bowl - Student track - Analytics [Kaggle](https://kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/new-writeup-1765933172824)
 
 Atul Venkatesh | Dartmouth College Class of 2027 | [LinkedIn](https://www.linkedin.com/in/atul-venkatesh-8a4b87204/)
 
@@ -11,9 +11,15 @@ Alexander Nanda | Dartmouth College Class of 2027 | [LinkedIn](https://www.linke
 
 # Directory
 ## Code
+Wrangling/modeling - Contains the code for our initial data wrangling, completion probability, xYAC, and Presence models
+Pairwise - Contains the code for the pairwise and synergy analysis
 ## Appendices
+### Appendix A
+Contains the most important features for the Completion Probability model
+### Appendix B
+Contains the most important features for the Expected Yards After Catch model
 ## Figures
-
+Contains the relevant figures from the Kaggle write-up
 # Glossary
 Completion Percentage (CP) - XGBoost model trained to predict the probability of a completed pass
 
