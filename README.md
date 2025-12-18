@@ -1,5 +1,5 @@
 # Presence
-A submission to the 2026 Big Data Bowl - Student track - Analytics [Kaggle](https://kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/new-writeup-1765933172824)
+A submission to the 2026 Big Data Bowl - Student track - Analytics | [Kaggle](https://kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/new-writeup-1765933172824)
 
 Atul Venkatesh | Dartmouth College Class of 2027 | [LinkedIn](https://www.linkedin.com/in/atul-venkatesh-8a4b87204/)
 
